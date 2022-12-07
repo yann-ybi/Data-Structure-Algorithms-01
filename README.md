@@ -1,4 +1,5 @@
-# Homework Assignment 1 (due June 2nd)
+# University of Rhode Island | Data structure and algorithms
+# Homework Assignment 1 Program Solution by Yann
 
 The goal of this assignment is to provide a review of basic tasks using `C++`, such as, processing command line arguments, reading/writing files, manipulating data with arrays and matrices, and using an object oriented design.  The assignment is worth a total of 100 points. If you have any questions or need any help, please visit us during office hours and/or post questions on Piazza.
 
